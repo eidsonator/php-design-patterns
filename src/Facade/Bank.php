@@ -11,5 +11,10 @@ namespace App\Facade;
 
 class Bank
 {
+    private $ssn;
 
+    public function __construct(string $ssn)
+    {
+        $this->ssn;
+    }
 }
