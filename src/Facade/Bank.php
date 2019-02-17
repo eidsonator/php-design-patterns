@@ -17,4 +17,9 @@ class Bank
     {
         $this->ssn = $ssn;
     }
+
+    public function Approve()
+    {
+        return false;
+    }
 }
