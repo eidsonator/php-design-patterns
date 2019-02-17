@@ -1,0 +1,7 @@
+/vendor/
+/bin/
+/.idea/
+/.scannerwork
+sonar-project.properties
+phpunit.log.xml
+phpunit.coverage.xml
