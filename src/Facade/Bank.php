@@ -15,6 +15,6 @@ class Bank
 
     public function __construct(string $ssn)
     {
-        $this->ssn;
+        $this->ssn = $ssn;
     }
 }
