@@ -3,13 +3,13 @@
  * Created by PhpStorm.
  * User: todd
  * Date: 2/17/19
- * Time: 7:57 AM
+ * Time: 7:29 PM
  */
 
 namespace App\Facade;
 
 
-class Bank
+class Credit
 {
     private $ssn;
 
